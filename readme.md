@@ -7,5 +7,8 @@
 
 - [ ] Consolidar todas as bases de terceiros para realizar uma análise
 - [ ] Transformar dados de vendasem informações relevantes para a fabricante
-- [ ] Quais são os produtos mais populares em cada país
-- [ ] Como otimizar o processo de transporte e logística até o momento da venda
+- [ ] Qual região é a mais rentável considerando volume vs. rentabilidade por produto
+- [ ] Qual região é a menos rentável, considerando volume vs rentabilidade por produto
+- [ ] Refazer estratégia de distribuição, priorizando regiões mais rentáveis com base em volume vs. rentabilidade por produto
+- [ ] Desconsiderar regiões menos rentáveis com base em volume vs. rentabilidade por produto
+      
